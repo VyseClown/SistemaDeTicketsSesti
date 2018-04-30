@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Trabalho_TcketsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Trabalho_TcketsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Atualizacao" EntityType="Trabalho_TcketsModel.Atualizacao" />
+    <EntitySet Name="Pessoas" EntityType="Trabalho_TcketsModel.Pessoas" />
+    <EntitySet Name="sysdiagrams" EntityType="Trabalho_TcketsModel.sysdiagrams" />
+    <EntitySet Name="Tickets" EntityType="Trabalho_TcketsModel.Tickets" />
+    <EntitySet Name="TipoPessoas" EntityType="Trabalho_TcketsModel.TipoPessoas" />
+    <AssociationSet Name="FK_Pessoas_TipoPessoas" Association="Trabalho_TcketsModel.FK_Pessoas_TipoPessoas">
+      <End Role="TipoPessoas" EntitySet="TipoPessoas" />
+      <End Role="Pessoas" EntitySet="Pessoas" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Atualizacao">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ticket" Type="Int32" />
+    <Property Name="Titulo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Descricao" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Data" Type="DateTime" Precision="3" />
+    <Property Name="Usuario" Type="Int32" />
+    <Property Name="Tecnico" Type="Int32" />
+    <Property Name="status" Type="Int32" />
+    <Property Name="Anexo" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Pessoas">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nome" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TipoPessoa" Type="Int32" />
+    <Property Name="senha" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TipoPessoas" Relationship="Trabalho_TcketsModel.FK_Pessoas_TipoPessoas" FromRole="Pessoas" ToRole="TipoPessoas" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Tickets">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Usuario" Type="Int32" />
+    <Property Name="Data" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="TipoPessoas">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nome" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Pessoas" Relationship="Trabalho_TcketsModel.FK_Pessoas_TipoPessoas" FromRole="TipoPessoas" ToRole="Pessoas" />
+  </EntityType>
+  <Association Name="FK_Pessoas_TipoPessoas">
+    <End Type="Trabalho_TcketsModel.TipoPessoas" Role="TipoPessoas" Multiplicity="0..1" />
+    <End Type="Trabalho_TcketsModel.Pessoas" Role="Pessoas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoPessoas">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Pessoas">
+        <PropertyRef Name="TipoPessoa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

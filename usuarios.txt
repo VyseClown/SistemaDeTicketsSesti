@@ -1,0 +1,7 @@
+admnistrador:
+login:adm
+senha:adm
+
+usuario:
+login:ana
+senha:ana

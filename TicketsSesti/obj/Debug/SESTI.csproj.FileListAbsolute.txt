@@ -1,0 +1,78 @@
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\csc.exe
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\csc.exe.config
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\csc.rsp
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\csi.exe
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\csi.rsp
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\System.AppContext.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\vbc.exe
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\vbc.exe.config
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\vbc.rsp
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\VBCSCompiler.exe
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\TicketsSesti.dll.config
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\TicketsSesti.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\TicketsSesti.pdb
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\Dominios.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\EntityFramework.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\Dominios.pdb
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\Dominios.dll.config
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\bin\EntityFramework.xml
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\obj\Debug\TicketsSesti.dll
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\obj\Debug\TicketsSesti.pdb
+C:\Users\alessandrogentil\Desktop\SESTI\TicketsSesti\obj\Debug\SESTI.csprojResolveAssemblyReference.cache
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\csc.exe
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\csc.exe.config
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\csc.rsp
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\csi.exe
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\csi.rsp
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\System.AppContext.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\System.Collections.Immutable.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\System.IO.FileSystem.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\System.Reflection.Metadata.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\vbc.exe
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\vbc.exe.config
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\vbc.rsp
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\VBCSCompiler.exe
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\roslyn\VBCSCompiler.exe.config
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\TicketsSesti.dll.config
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\TicketsSesti.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\TicketsSesti.pdb
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\Dominios.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\EntityFramework.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\Dominios.pdb
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\Dominios.dll.config
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\bin\EntityFramework.xml
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\obj\Debug\SESTI.csprojResolveAssemblyReference.cache
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\obj\Debug\TicketsSesti.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\TicketsSesti\obj\Debug\TicketsSesti.pdb

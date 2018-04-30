@@ -1,0 +1,47 @@
+c:\users\k-noon\documents\visual studio 2017\Projects\TicketsSesti\Dominios\bin\Debug\Dominios.dll.config
+c:\users\k-noon\documents\visual studio 2017\Projects\TicketsSesti\Dominios\bin\Debug\Dominios.dll
+c:\users\k-noon\documents\visual studio 2017\Projects\TicketsSesti\Dominios\bin\Debug\Dominios.pdb
+c:\users\k-noon\documents\visual studio 2017\Projects\TicketsSesti\Dominios\bin\Debug\EntityFramework.dll
+c:\users\k-noon\documents\visual studio 2017\Projects\TicketsSesti\Dominios\bin\Debug\EntityFramework.xml
+c:\users\k-noon\documents\visual studio 2017\Projects\TicketsSesti\Dominios\obj\Debug\Dominios.csprojResolveAssemblyReference.cache
+c:\users\k-noon\documents\visual studio 2017\Projects\TicketsSesti\Dominios\obj\Debug\Dominios.dll
+c:\users\k-noon\documents\visual studio 2017\Projects\TicketsSesti\Dominios\obj\Debug\Dominios.pdb
+C:\Users\rodrigobrandao\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.dll.config
+C:\Users\rodrigobrandao\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.dll
+C:\Users\rodrigobrandao\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.pdb
+C:\Users\rodrigobrandao\Desktop\TicketsSesti\Dominios\bin\Debug\EntityFramework.dll
+C:\Users\rodrigobrandao\Desktop\TicketsSesti\Dominios\bin\Debug\EntityFramework.xml
+C:\Users\rodrigobrandao\Desktop\TicketsSesti\Dominios\obj\Debug\Dominios.csprojResolveAssemblyReference.cache
+C:\Users\rodrigobrandao\Desktop\TicketsSesti\Dominios\obj\Debug\Dominios.dll
+C:\Users\rodrigobrandao\Desktop\TicketsSesti\Dominios\obj\Debug\Dominios.pdb
+C:\Users\k-noon\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.dll.config
+C:\Users\k-noon\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.dll
+C:\Users\k-noon\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.pdb
+C:\Users\k-noon\Desktop\TicketsSesti\Dominios\bin\Debug\EntityFramework.dll
+C:\Users\k-noon\Desktop\TicketsSesti\Dominios\bin\Debug\EntityFramework.xml
+C:\Users\k-noon\Desktop\TicketsSesti\Dominios\obj\Debug\Dominios.dll
+C:\Users\k-noon\Desktop\TicketsSesti\Dominios\obj\Debug\Dominios.pdb
+C:\Users\alessandrogentil\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.dll.config
+C:\Users\alessandrogentil\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.dll
+C:\Users\alessandrogentil\Desktop\TicketsSesti\Dominios\bin\Debug\Dominios.pdb
+C:\Users\alessandrogentil\Desktop\TicketsSesti\Dominios\bin\Debug\EntityFramework.dll
+C:\Users\alessandrogentil\Desktop\TicketsSesti\Dominios\bin\Debug\EntityFramework.xml
+C:\Users\alessandrogentil\Desktop\TicketsSesti\Dominios\obj\Debug\Dominios.csprojResolveAssemblyReference.cache
+C:\Users\alessandrogentil\Desktop\TicketsSesti\Dominios\obj\Debug\Dominios.dll
+C:\Users\alessandrogentil\Desktop\TicketsSesti\Dominios\obj\Debug\Dominios.pdb
+C:\Users\alessandrogentil\Desktop\SESTI\Dominios\bin\Debug\Dominios.dll.config
+C:\Users\alessandrogentil\Desktop\SESTI\Dominios\bin\Debug\Dominios.dll
+C:\Users\alessandrogentil\Desktop\SESTI\Dominios\bin\Debug\Dominios.pdb
+C:\Users\alessandrogentil\Desktop\SESTI\Dominios\bin\Debug\EntityFramework.dll
+C:\Users\alessandrogentil\Desktop\SESTI\Dominios\bin\Debug\EntityFramework.xml
+C:\Users\alessandrogentil\Desktop\SESTI\Dominios\obj\Debug\Dominios.csprojResolveAssemblyReference.cache
+C:\Users\alessandrogentil\Desktop\SESTI\Dominios\obj\Debug\Dominios.dll
+C:\Users\alessandrogentil\Desktop\SESTI\Dominios\obj\Debug\Dominios.pdb
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\Dominios\bin\Debug\Dominios.dll.config
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\Dominios\bin\Debug\Dominios.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\Dominios\bin\Debug\Dominios.pdb
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\Dominios\bin\Debug\EntityFramework.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\Dominios\bin\Debug\EntityFramework.xml
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\Dominios\obj\Debug\Dominios.csprojResolveAssemblyReference.cache
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\Dominios\obj\Debug\Dominios.dll
+E:\Box Sync\Faculdade 5º Termo\TrabalhoParaEntregarSegunda\SESTI\Dominios\obj\Debug\Dominios.pdb
